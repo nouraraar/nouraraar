@@ -1,14 +1,10 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nour</h1>
-<h3 align="center">I am a Computer Science Engineering student. I'm very passionate about Data Science and Artificial Intelligence.</h3>
+<h3 align="center">I am a Computer Science Engineer. I'm very passionate about Cloud and Artificial Intelligence.</h3>
 
 
 ## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **Deep Learning project**
-
-- 🌱 I’m currently learning **TensorFlow**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -41,11 +37,6 @@
     <a href="https://github.com/nouraraar/github-readme-stats"><img alt="nouraraar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=nouraraar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/nouraraar/github-readme-stats"><img alt="nouraraar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouraraar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-
-<br/>
-<br/>
-
-<a href="https://github.com/nouraraar/github-readme-activity-graph"><img alt="nouraraar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nouraraar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
