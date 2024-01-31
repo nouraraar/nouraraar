@@ -38,17 +38,9 @@
   <a href="https://github.com/nouraraar/github-readme-stats"><img alt="nouraraar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nouraraar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
 
-<br/>
-<br/>
-
 ## Connect with me:
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/nouraraar/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
-
-<a href="https://github.com/nouraraar/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=nouraraar">
-</a>
-<a href="https://github.com/nouraraar?tab=followers"><img src="https://img.shields.io/github/followers/nouraraar?label=Followers&style=social" alt="GitHub Badge"></a>
